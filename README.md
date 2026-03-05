@@ -119,14 +119,4 @@ The FPGA implementation demonstrated:
 - Request processing
 - Emergency handling mechanism
 
-### FPGA Implementation
 
-![FPGA Implementation](fpga_board.png)
-
----
-
-## Author
-
-**Parvathy S Nair**  
-Electronics and Communication Engineering  
-Digital System Design Internship Project
